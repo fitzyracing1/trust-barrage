@@ -1,2 +1,5 @@
 # trust-barrage
-Barrage plain-language clone of fitzyracing1/trust
+
+Barrage clone of [fitzyracing1/trust](https://github.com/fitzyracing1/trust).
+
+Read [listing.barrage](listing.barrage).
